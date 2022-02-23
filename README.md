@@ -47,4 +47,4 @@ Si on oublie les lettres de m à z, les lettres majuscules, et les deux en même
 
 -Bibliothèque QUARCK en C: Possède quelques fonctions de stdio.h en version QUARCK, telles que (f)putqckar, (f)put2qckar et (f)putsqck  
 -ASCII2QUARCK et QUARCK2ASCII: Permet de traduire des documents d'une table à l'autre !   
--QUARKLIRE: Équivalent de CAT/TYPE pour lire un fichier QUARCK, littéralement `quarck2ascii <fichier> /dev/stdout`  
+-QUARCKLIRE: Équivalent de CAT/TYPE pour lire un fichier QUARCK, littéralement `quarck2ascii <fichier> /dev/stdout`  
